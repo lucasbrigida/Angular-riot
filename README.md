@@ -1,4 +1,6 @@
 #riot.js module for angularjs
+
+[![Join the chat at https://gitter.im/lucasbrigida/angular-riot](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/lucasbrigida/angular-riot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![riotjs](https://muut.com/riotjs/logo/riot240x.png)    ![angular](https://angularjs.org/img/AngularJS-large.png)
 
 Description
